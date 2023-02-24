@@ -1,0 +1,6 @@
+{
+    "SERVER_IP": "IP/DNS:30120",
+    "GUILD_ID": GUILDID,
+    "TOKEN": "BOT TOKEN",
+    "EMBED_COLOR": "0x2A2A2A" 
+}
