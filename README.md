@@ -36,3 +36,8 @@ Add in the **Startup » ADDITIONAL PYTHON PACKAGES**:
 ```
 nextcord asyncio colorama json requests
 ```
+
+# Screenshots
+Soon cuz i'm to lazy to post rn
+# Don't have host?
+You can host your bot for free on my [Moon Free Hosting](https://freehost.moongetsu.xyz) 
