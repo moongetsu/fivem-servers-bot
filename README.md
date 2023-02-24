@@ -1,23 +1,38 @@
 # FiveM Discord.Py Bot 
-Useful Discord Bot for FiveM Servers Written in Discord.py
-> List of Features:
-> Get Your FiveM Server Members and show it on bot status
-> Get List of Your In-Game Players
-> Get Info About Each Player, Like Their SteamHex or Discord ID
-> Convert Discord ID to Username and Profile
-> ...
+Useful Discord Bot for Owners of FiveM Servers
 
-# Note
-You have to Edit Code and change the config so your bot will work.
-> Line 17, 18, 19
+# List of Features:
+```
+» Gets the player list from the server and show it at the bot status
+» Command that sends a list with the players from your server
+» Command that sends all the information from a player, like their SteamID or Discord Profile ID
+```
 
-# Install
-Install:
-1- Install Python (( don’t forget to tick “Add To Environment Variables” ))<br />
-2- open your CMD, type the following commands:<br />
+# What's different:
 ```
-pip install discord.py
-pip install requests
+» I made some changes at the embeds
+» I added application (slash) commands
+» I fixed some bugs from AmirhN's Bot
 ```
-2.1- If It Says “pip is not recognized as an internal or external command” install Python again, choose “Modify” and tick to install “PIP” and “Add to Environment Variables”<br />
-3- Double click on your “*.py” file.
+## Configuration of settings.json
+```
+
+```
+
+## Installation of dependencies (Root VPS)
+
+```
+apt install screen
+apt install git
+git clone https://github.com/moongetsu/fivemserversbot
+cd fivem-servers-bot
+apt install python3
+pip3 install -r requirements.txt
+screen python3 main.py
+```
+
+## Installation of dependencies (Pterodactyl/Other Panel)
+Add in the **Startup » ADDITIONAL PYTHON PACKAGES**: 
+```
+nextcord asyncio colorama json requests
+```
