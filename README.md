@@ -19,7 +19,7 @@ Useful Discord Bot for Owners of FiveM Servers
 "SERVER_IP": "IP/DNS:30120", » Your FiveM Server IP/DNS
 "GUILD_ID": GUILDID, » Guild ID
 "TOKEN": "BOT TOKEN", » Token
-"EMBED_COLOR": "0x2A2A2A" » Embed color (you can use [COLOR PICKER](https://htmlcolorcodes.com/color-picker/))
+"EMBED_COLOR": "0x2A2A2A" » Embed color (you can use https://htmlcolorcodes.com/color-picker)
 ```
 
 ## Installation of dependencies (Root VPS)
