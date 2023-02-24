@@ -26,10 +26,10 @@ Useful Discord Bot for Owners of FiveM Servers
 
 ```
 apt install screen
-apt install git
-git clone https://github.com/moongetsu/fivemserversbot
-cd fivem-servers-bot
 apt install python3
+get the archive from https://github.com/moongetsu/fivem-servers-bot/releases
+create a folder & extract the version that you want
+cd yourfoldername
 pip3 install -r requirements.txt
 screen python3 main.py
 ```
