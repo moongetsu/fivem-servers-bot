@@ -1,0 +1,6 @@
+nextcord
+colorama
+requests
+json
+asyncio
+time
