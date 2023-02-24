@@ -37,7 +37,7 @@ screen python3 main.py
 ## Installation of dependencies (Pterodactyl/Other Panel)
 Add in the **Startup » ADDITIONAL PYTHON PACKAGES**: 
 ```
-nextcord asyncio colorama json requests
+nextcord asyncio colorama json requests time
 ```
 
 # Screenshots
