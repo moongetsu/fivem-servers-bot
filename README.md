@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> ### 🚨 Repository Moved to GitLab
+> This repository has officially migrated to **GitLab** and is now archived on GitHub for historical reference.
+>
+> 📦 **Active Development & Releases**: [https://gitlab.com/moongetsu/fivem-servers-bot](https://gitlab.com/moongetsu/fivem-servers-bot)
+
 # FiveM Discord.Py Bot 
 Useful Discord Bot for Owners of FiveM Servers
 
